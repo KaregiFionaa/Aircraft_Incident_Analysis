@@ -33,7 +33,7 @@ Engine Types and Incident Severity: A bar chart showing the distribution of inju
 
 Aircraft Model Impact on Fatal Injuries: A box plot displaying the average number of fatal injuries across different aircraft models.
 
-Here's the Tableau Link: View Tableau Dashboard
+Here's the Tableau Link: [View my Tableau Dashboard](https://public.tableau.com/views/Tableau_Project_Phase_1/AviationTrendAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Conclusion
 The analysis yielded several key findings:
